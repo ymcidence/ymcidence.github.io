@@ -1,0 +1,10 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Yuming Shen:
+  name: Yuming Shen
+  picture: /pics/chiyao.jpg
+  links:
+    - title: github
+      url: https://github.com/ymcidence
+      icon: fab fa-github-square
