@@ -20,8 +20,8 @@ remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "Yuming Shen"
 description: "Postdoc at the University of Oxford"
-baseurl: "https://ymcidence.github.io"
-url: ""
+baseurl: ""
+url: "https://ymcidence.github.io"
 logo: "/pics/YS.png"
 date_format: "%B %-d, %Y"
 read_time: true
